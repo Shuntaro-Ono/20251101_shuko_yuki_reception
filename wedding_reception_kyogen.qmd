@@ -21,25 +21,21 @@ title-block-banner: true
 toc: true
 ---
 
-# 狂言とは？/What's Kyogen?
+# 狂言とは？
 
 能・狂言はともに14世紀に成立した演劇ですが、両者には違いがあります。
 
 Noh and Kyogen are both theatrical forms that originated in the 14th century, but they have distinct differences.
 
-## 能/Noh
+## 能
 
 華美/大人数/道具&楽器あり/神話・悲劇
 
-Gorgeous/Large group/Props and instruments included/Mythology or tragedy
-
 ![能/noh](input/noh.jpg)
 
-## 狂言/kyogen
+## 狂言
 
 地味/少人数/道具&楽器ほぼなし/コント
-
-Minimalist/Small cast/Few (or almost no) props or instruments/Comedy sketch
 
 ![狂言/kyogen](input/kyogen.jpg)
 
