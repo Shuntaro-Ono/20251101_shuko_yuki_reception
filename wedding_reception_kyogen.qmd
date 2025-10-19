@@ -21,25 +21,76 @@ title-block-banner: true
 toc: true
 ---
 
-# 狂言とは？
+# お祝い
 
-能・狂言はともに14世紀に成立した演劇ですが、両者には違いがあります。
-
-Noh and Kyogen are both theatrical forms that originated in the 14th century, but they have distinct differences.
-
-## 能
-
-華美/大人数/道具&楽器あり/神話・悲劇
-
-![能/noh](input/noh.jpg)
-
-## 狂言
-
-地味/少人数/道具&楽器ほぼなし/コント
-
-![狂言/kyogen](input/kyogen.jpg)
+マッキー、脩子、結婚おめでとうございます。大切な友人である二人が結ばれて心から嬉しいです。こらからも仲良くしてください！そして今日は出しゃばってごめんなさい。
 
 ------------------------------------------------------------------------
 
+# QR
+
+::: center
+![このページへのアクセス](input/qr.png)
+:::
+
+------------------------------------------------------------------------
+
+# 狂言とは？
+
+能・狂言は共に14世紀に成立した芸能で両者を合わせ能楽と呼ばれる。どちらも同じ能舞台を使用するので混同されやすいですが、明確に違いがあります。
+
+## 能
+
+能は亡霊や神仏、精霊といった現実を超越した存在が主人公となることが多いのが特徴です。シテ（写真/中央に立つ人物）、ワキ（写真/右側に座っている紫色の人物）、地謡（舞台右手に座るコーラス部隊）、囃子（舞台後方に陣取る楽器隊）など様々な役割の能楽師が登場します。セリフは超難解で、上演時間も1〜2時間に亘るので、毎回序盤〜中盤は睡気と闘い、後半はお尻が痛くて堪りません。
+
+![能/道成寺](input/noh_dojouji.jpg){width=90%}
+
+## 狂言
+
+一方の狂言は、一般市民の生活を面白可笑しく描き出します。2〜3人で演じられることが多く、能の様に地謡（コーラス）や囃子はありません。上演時間は20〜40分程で、身分の高い人や歴史上の人物を登場させる能と異なり、狂言の登場人物には名前がなく、より観客に寄り添った芸能と言えるかと思います。室町時代から続く演劇であり敷居の高さを感じますが、実際に見てみると、起承転結が分かりやすいものが多く、現代に生きる我々でもクスッと笑えてしまうところが一番の魅力です。
+
+![狂言/萩大名](input/kyogen_hagidaimyou.jpg){width=90%}
+
+------------------------------------------------------------------------
+
+# 🐟魚説経（うおぜっきょう）
+
+## あらすじ
+
+　現在の神戸・須磨のあたりに暮らす一人の漁師が、日々の仕事に嫌気がさし、「僧侶になればタダで飯が食えるだろう」と軽い気持ちで出家します。しかし所詮は俄か坊主、読経の作法も知らず、思い描いたような安穏な暮らしにはほど遠い日々を送っていました。ある日、気まぐれに「一度は都見物をしてみよう」と思い立ち、京都へと向かいます。一方その頃、都では新たに寺を建てた男が、その住職となる人を探していました。そして旅の途上、この二人が偶然にも出会います。京都の男は僧となった漁師を自らの寺に案内し、到着するや否や「さっそく説法をしてみよ」と求めます。説法などしたことのない元漁師の男は途方に暮れますが――そのとき、ふと一つの妙案を思いつくのでした。　<br>
+
+## 説法部分
+
+　いでいでさわら、まず説法を述べんと、いかにもすすきに煤けたる、黒大の衣に、乾鮭色の袈裟を着し、水晶の数珠をはま繰り、こうらいざめの上へ、ノシノシと這え上がり、きんこを鳴らし、またわにぐちをどじょうどじょうと打ち鳴らし、まず説法をするめなり。ちょうじも早く馳ぜ集まり、心のくらげを赤誠にし、またしゃちのごときもうなぎの穴より出るが如く、ぬらぬらとして、仏の御法を聴聞すべし。
+　それ人間の儚き命は、えびの眼を力となし、くらげが海に浮かみ漂うが如く、浮世を渡る人間世界なり。つつぎり敬ってもううお、ちぬだい教主、しゃけぶり如来。ぶりこの菩薩に申して申さば、かれい経を習うとも、ナマズには習うべからず。ただ乞い願う処は、ふならく世界へ、こちこちと生ぜられたきなり。
+　故に仏も安行の御法をなし給うも、これ皆こうおの為なれば、こたるもの、なまこ、かますご、ざこ、きすご、もろこ、ぶりこ、きんこ、はららご、いりこ、せいご、各大勢の数の子も、親に対し二心あらば、これ大いなるふかなり。誠に親のちびとて、糸縒りの様な細き心にて雨のうおの如く、涙をたらたらと流し、さめざめと泣く。されば観音経の文に曰くひだい平げ、えび観音力とも説かれたり。また心経の文に曰く、阿耨多羅三藐三菩提。にしん般若、阿弥陀心経。今日の説唱これまでなり、願偈ふぐどく、ぎちゅういっさざえ。かつおこしょだいぐんりょう。なまだこ、なまだこ、なまだこ、はも阿弥陀、はも阿弥陀、はもあゆたこ。
+
+## 説法部分（🐟&🔗付き）<span style="font-size:0.5em;color:red">＊赤字&下線ありの魚介類は外部リンク付きです</span>
+
+　いでいで鰆([サワラ](https://sushi.zukan-bouz.com/detail.php?id=1004){style="color:red;"})、説法を述べむと、烏賊([イカ](https://sushi.zukan-bouz.com/detail.php?id=1037){style="color:red;"})にも、鱸([スズキ](https://sushi.zukan-bouz.com/detail.php?id=711){style="color:red;"})に煤けたる、黒鯛([クロダイ](https://sushi.zukan-bouz.com/detail.php?id=877){style="color:red;"})の衣に、乾鮭([シャケ](https://www.zukan-bouz.com/syu/%E3%82%B5%E3%82%B1){style="color:red;"})色の袈裟を着し、水晶の数珠を蛤([ハマグリ](https://www.zukan-bouz.com/syu/%E3%83%8F%E3%83%9E%E3%82%B0%E3%83%AA){style="color:red;"})、高麗鮫([サメ](https://www.zukan-bouz.com/com/%E3%82%B5%E3%83%A1){style="color:red;"})の上へ、熨斗([ノシ]{style="color:red;"})熨斗[^1]と鮠([ハヤ/ハエ](https://www.zukan-bouz.com/syu/%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF){style="color:red;"})上がり、金海鼠([キンコ](https://www.zukan-bouz.com/syu/%E3%82%AD%E3%83%B3%E3%82%B3){style="color:red;"})を鳴らし、又鰐口([ワニゴチ](https://www.zukan-bouz.com/syu/%E3%83%AF%E3%83%8B%E3%82%B4%E3%83%81){style="color:red;"})を泥鰌([ドジョウ](https://www.zukan-bouz.com/com/%E3%83%89%E3%82%B8%E3%83%A7%E3%82%A6){style="color:red;"})泥鰌と打ち鳴らし、まず説法を鯣([スルメ](https://www.zukan-bouz.com/syu/%E3%82%B9%E3%83%AB%E3%83%A1%E3%82%A4%E3%82%AB){style="color:red;"})なり。ちょうじも早く鯊([ハゼ](https://www.zukan-bouz.com/com/%E3%83%8F%E3%82%BC){style="color:red;"})集まり、心の海月([クラゲ](https://www.zukan-bouz.com/syu/%E3%83%93%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%B2){style="color:red;"})を赤鱏([エイ](https://www.zukan-bouz.com/com/%E3%82%A8%E3%82%A4){style="color:red;"})にし、又鯱([シャチ]{style="color:red;"})[^2]の如きも、鰻([ウナギ](https://www.zukan-bouz.com/com/%E3%82%A6%E3%83%8A%E3%82%AE){style="color:red;"})の穴より出るが如く、ヌラヌラとして仏の御海苔([ノリ]{style="color:gray;"})を聴聞すべし。
+
+[^1]: 熨斗鮑(ノシアワビ)は、アワビの肉を薄く剥ぎ、長く伸ばしたもの。古くは儀式用の肴に用い、のちに祝儀の贈り物に添える風習となった。現代、私たちが普段目にしている熨斗袋はこの風習の名残。
+
+[^2]: 姿は魚で頭は虎、尾ひれは常に空を向き、背中には幾重もの鋭い棘を持っているという想像上の動物。しゃちほこで有名。
+
+　それ人間の果敢なき命は海老([エビ](https://sushi.zukan-bouz.com/detail.php?id=852){style="color:red;"})の眼を力となし、海月([クラゲ]{style="color:red;"})が海に浮かみ漂うが如く、浮世を渡る人間世界なり。つつぎり[^3]敬っても魚([ウオ]{style="color:gray;"})、ちぬ鯛([チヌダイ](https://www.zukan-bouz.com/syu/%E3%82%AF%E3%83%AD%E3%83%80%E3%82%A4){style="color:red;"})教主、鮭([サケ]{style="color:gray;"})鰤([ブリ](https://www.zukan-bouz.com/syu/%E3%83%96%E3%83%AA){style="color:red;"})如来。鰤([ブリ]{style="color:gray;"})子の菩薩に申して申鯖([サバ](https://www.zukan-bouz.com/com/%E3%82%B5%E3%83%90){style="color:red;"})、鰈([カレイ](https://www.zukan-bouz.com/com/%E3%82%AB%E3%83%AC%E3%82%A4){style="color:red;"})経を習うとも、鯰([ナマズ](https://www.zukan-bouz.com/com/%E3%83%8A%E3%83%9E%E3%82%BA){style="color:red;"})には習うべからず。ただ鯉([コイ]{style="color:red;"})願うところは、鮒([フナ](https://www.zukan-bouz.com/syu/%E3%83%8B%E3%82%B4%E3%83%AD%E3%83%96%E3%83%8A){style="color:red;"})落世界へ、鯒([コチ](https://www.zukan-bouz.com/syu/%E3%83%9E%E3%82%B4%E3%83%81){style="color:red;"})々と招ぜられたきなり。
+
+[^3]: 筒切り。魚の切り方の一つ。頭を落とし、そこから内臓を抜き出して洗った後、骨ごと輪切りにしたもの。コイ、サケ、アユ、ウナギなど胴の丸い魚に多く用いられる。
+
+　故に仏も、鮟鱇([アンコウ](https://sushi.zukan-bouz.com/detail.php?id=1154){style="color:red;"})の御海苔([ノリ]{style="color:gray;"})を成し給うも、これ皆小魚([ウオ]{style="color:gray;"})の為なれば、子たるもの、海鼠([ナマコ]{style="color:red;"})、梭魚([カマス](https://www.zukan-bouz.com/syu/%E3%82%A2%E3%82%AB%E3%82%AB%E3%83%9E%E3%82%B9){style="color:red;"})子、雑魚([ザコ]{style="color:red;"})、鱚([キス](https://www.zukan-bouz.com/syu/%E3%82%B7%E3%83%AD%E3%82%AE%E3%82%B9){style="color:red;"})子、諸子([モロコ](https://www.zukan-bouz.com/syu/%E3%83%9B%E3%83%B3%E3%83%A2%E3%83%AD%E3%82%B3){style="color:red;"})、鰤([ブリ]{style="color:red;"})子、金海鼠([キンコ]{style="color:red;"})、鮞([ハララゴ]{style="color:red;"})[^4]、炒子([イリコ]{style="color:red;"})[^5]、鮬([セイゴ](https://www.zukan-bouz.com/syu/%E3%82%B9%E3%82%BA%E3%82%AD){style="color:red;"})、かく大勢の数の子([カズノコ](https://sushi.zukan-bouz.com/detail.php?id=950){style="color:red;"})も、親に対し鰊([ニシン](https://www.zukan-bouz.com/syu/%E3%83%8B%E3%82%B7%E3%83%B3){style="color:red;"})あらば、これ大いなる鱶([フカ](https://www.zukan-bouz.com/syu/%E3%83%9B%E3%82%B7%E3%82%B6%E3%83%A1){style="color:red;"})なり、誠に親の血引([チビキ](https://sushi.zukan-bouz.com/detail.php?id=1220){style="color:red;"})とて、糸より([イトヨリダイ](https://www.zukan-bouz.com/syu/%E3%82%A4%E3%83%88%E3%83%A8%E3%83%AA%E3%83%80%E3%82%A4){style="color:red;"})の様な細き心にて、雨の魚([アメノウオ](https://www.zukan-bouz.com/syu/%E3%82%A2%E3%83%9E%E3%82%B4){style="color:red;"})の如く涙を鱈([タラ](https://www.zukan-bouz.com/com/%E3%82%BF%E3%83%A9){style="color:red;"})々と流し、鮫([サメ]{style="color:red;"})々と泣く。されば観音経の文に曰く、干鯛([ヒダイ](https://www.zukan-bouz.com/syu/%E3%83%98%E3%83%80%E3%82%A4){style="color:red;"})平らげ、海老([エビ]{style="color:gray;"})観音力とも説かれたり。又心経の文に曰く、あのく蛸([タコ](https://sushi.zukan-bouz.com/detail.php?id=970){style="color:red;"})三百三文鯛([タイ]{style="color:red;"})。鰊([ニシン]{style="color:red;"})般若、鮑([アワビ](https://www.zukan-bouz.com/syu/%E3%82%A2%E3%82%AB%E3%82%A2%E3%83%AF%E3%83%93){style="color:red;"})陀心経。
+
+[^4]: 魚卵のこと。特にサケの卵であるイクラを指す。
+
+[^5]: 煮干しのこと。
+
+　今日の説唱これまでなり。雁木([ガンギ](https://www.zukan-bouz.com/syu/%E3%82%BD%E3%82%B3%E3%82%AC%E3%83%B3%E3%82%AE%E3%82%A8%E3%82%A4){style="color:red;"})河豚([フグ](https://www.zukan-bouz.com/syu/%E3%83%88%E3%83%A9%E3%83%95%E3%82%B0){style="color:red;"})毒、ぎちゅう([ギギュウ](https://www.zukan-bouz.com/syu/%E3%82%AE%E3%82%AE#aka){style="color:red;"})一栄螺([サザエ](https://www.zukan-bouz.com/syu/%E3%82%B5%E3%82%B6%E3%82%A8){style="color:red;"})、鰹([カツオ](https://sushi.zukan-bouz.com/detail.php?id=719){style="color:red;"})こしょ鯛([コショウダイ](https://sushi.zukan-bouz.com/detail.php?id=863){style="color:red;"})ぐんりょう。生蛸([タコ]{style="color:gray;"})々々々々。鱧([ハモ](https://www.zukan-bouz.com/syu/%E3%83%8F%E3%83%A2){style="color:red;"})阿弥陀、鱧([ハモ]{style="color:gray;"})阿弥陀、鱧([ハモ]{style="color:gray;"})阿弥陀、、、鱧([ハモ]{style="color:gray;"})鮎([アユ](https://www.zukan-bouz.com/syu/%E3%82%A2%E3%83%A6){style="color:red;"})蛸([タコ]{style="color:gray;"})！
+　
+------------------------------------------------------------------------
+
+# 関連🔗
+
+[茂山千五郎家](https://kyotokyogen.com/about/sengoroke/)
+
+[茂山千五郎家公演スケジュール](https://kyotokyogen.com/schedule/)
 
 ------------------------------------------------------------------------
